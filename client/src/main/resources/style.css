@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+}
+
+h1 {
+    color: greenyellow;
+    margin-left: 20px;
+}
+
+p {
+    color: rebeccapurple;
+}
+
+li {
+    color: orange;
+}
