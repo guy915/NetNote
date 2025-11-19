@@ -2,6 +2,8 @@
 
 A multi-module Java project that implements a simple notes application with a Spring Boot REST server and a JavaFX desktop client, sharing common data models. This README consolidates setup and run instructions and documents the project structure.
 
+![Demo](https://github.com/user-attachments/assets/d34ec486-2935-487a-9c2c-191f7a6c0948)
+
 ---
 
 ## Overview
