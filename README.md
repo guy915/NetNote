@@ -1,7 +1,6 @@
 # CSEP Template Project
 
-A multi-module Java project that implements a simple notes application with a Spring Boot REST server and a JavaFX desktop client, sharing common data models. This README consolidates setup and run instructions and documents the project structure.
-
+A multi-module Java project that implements a simple notes application with a Spring Boot REST server and a JavaFX desktop client, sharing common data models.
 ![Demo](https://github.com/user-attachments/assets/f77222bc-8d2b-47b4-8285-3256cb95723e)
 
 ---
