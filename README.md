@@ -1,4 +1,4 @@
-# CSEP Template Project
+# NetNote
 
 A multi-module Java project that implements a simple notes application with a Spring Boot REST server and a JavaFX desktop client, sharing common data models.
 
